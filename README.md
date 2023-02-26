@@ -34,4 +34,5 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="jira" width="120" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="confluence" width="100" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennyboby&show_icons=true&locale=en&layout=compact" alt="dennyboby" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennyboby&show_icons=true&locale=en&layout=compact" alt="dennyboby" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennyboby&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Denny Boby's Github Stats"></p>
