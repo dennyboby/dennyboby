@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Denny Boby</h1>
+[![](denny-github.gif)](https://dennyboby.github.io/)
+
+<!-- <h1 align="center">Hi 👋, I'm Denny Boby</h1> -->
 <h3 align="center">I am currently a Robotics Masters student at Worcester Polytechnic Institute graduating in May 2023. I work at the intersection of motion planning, deep learning and controls solving problems in engineering and research for mobile and manipulator systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennyboby&label=Profile%20views&color=0e75b6&style=flat" alt="dennyboby" /> </p>
